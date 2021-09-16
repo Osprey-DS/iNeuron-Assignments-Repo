@@ -1,0 +1,1227 @@
+2021-09-12 12:18:27,518 - INFO - add_label_col - Copy raw file to datafolder
+2021-09-12 12:18:27,518 - INFO - copy_raw_folder - Copying raw file to datafolder
+2021-09-12 12:18:27,535 - INFO - copy_raw_folder - Created datafolder
+2021-09-12 12:18:27,535 - ERROR - copy_raw_folder - Copying raw file to datafolder is failed[WinError 183] Cannot create a file when that file already exists: './datafolder'
+2021-09-12 12:18:27,536 - ERROR - add_label_col - Error while adding label column [WinError 183] Cannot create a file when that file already exists: './datafolder'
+2021-09-12 12:19:57,744 - INFO - add_label_col - Copy raw file to datafolder
+2021-09-12 12:19:57,744 - INFO - copy_raw_folder - Copying raw file to datafolder
+2021-09-12 12:19:59,573 - INFO - copy_raw_folder - Copying raw file to datafolder is successful
+2021-09-12 12:19:59,573 - INFO - add_label_col - Raw files moved to data folder.
+2021-09-12 12:19:59,573 - INFO - add_label_col - Looping through all folder inside datafolder
+2021-09-12 12:19:59,574 - INFO - add_label_col - Label: bending1
+2021-09-12 12:19:59,574 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:19:59,709 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:19:59,786 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:19:59,882 - INFO - add_label_col - File saved successfully
+2021-09-12 12:19:59,883 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:19:59,894 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:19:59,895 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:19:59,900 - INFO - add_label_col - File saved successfully
+2021-09-12 12:19:59,900 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:19:59,911 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:19:59,912 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:19:59,960 - INFO - add_label_col - File saved successfully
+2021-09-12 12:19:59,960 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:19:59,971 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:19:59,972 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:19:59,976 - INFO - add_label_col - File saved successfully
+2021-09-12 12:19:59,976 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:19:59,987 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:19:59,988 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:20:00,016 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,016 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:20:00,029 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:20:00,029 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:20:00,034 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,034 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:20:00,046 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:20:00,047 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:20:00,051 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,052 - INFO - add_label_col - All files in the folder are processed for ./datafolder\bending1
+2021-09-12 12:20:00,052 - INFO - add_label_col - Label: bending2
+2021-09-12 12:20:00,052 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:20:00,064 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:20:00,064 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:20:00,069 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,069 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:20:00,080 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:20:00,081 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:20:00,085 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,085 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:20:00,097 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:20:00,098 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:20:00,102 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,102 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:20:00,164 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:20:00,164 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:20:00,168 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,168 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:20:00,180 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:20:00,181 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:20:00,186 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,186 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:20:00,198 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:20:00,199 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:20:00,204 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,204 - INFO - add_label_col - All files in the folder are processed for ./datafolder\bending2
+2021-09-12 12:20:00,205 - INFO - add_label_col - Label: cycling
+2021-09-12 12:20:00,205 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:20:00,217 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,219 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:20:00,225 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,225 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-12 12:20:00,239 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,240 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-12 12:20:00,248 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,249 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-12 12:20:00,265 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,266 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-12 12:20:00,271 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,271 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-12 12:20:00,288 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,289 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-12 12:20:00,296 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,296 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-12 12:20:00,359 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,359 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-12 12:20:00,365 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,365 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-12 12:20:00,398 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,399 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-12 12:20:00,406 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,406 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-12 12:20:00,423 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,424 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-12 12:20:00,430 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,431 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:20:00,443 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,444 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:20:00,450 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,450 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:20:00,464 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,465 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:20:00,472 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,472 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:20:00,486 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,486 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:20:00,491 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,491 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:20:00,504 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,504 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:20:00,509 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,509 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:20:00,532 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,533 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:20:00,540 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,540 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:20:00,553 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,554 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:20:00,560 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,561 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-12 12:20:00,574 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,575 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-12 12:20:00,581 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,581 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-12 12:20:00,596 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:20:00,597 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-12 12:20:00,603 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,604 - INFO - add_label_col - All files in the folder are processed for ./datafolder\cycling
+2021-09-12 12:20:00,604 - INFO - add_label_col - Label: lying
+2021-09-12 12:20:00,604 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:20:00,620 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,621 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:20:00,626 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,626 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-12 12:20:00,640 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,640 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-12 12:20:00,646 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,646 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-12 12:20:00,658 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,659 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-12 12:20:00,664 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,664 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-12 12:20:00,701 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,702 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-12 12:20:00,707 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,708 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-12 12:20:00,721 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,722 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-12 12:20:00,727 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,728 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-12 12:20:00,744 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,745 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-12 12:20:00,752 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,752 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-12 12:20:00,770 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,770 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-12 12:20:00,776 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,776 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:20:00,788 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,789 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:20:00,848 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,849 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:20:00,861 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,862 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:20:00,866 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,866 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:20:00,878 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,878 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:20:00,882 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,882 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:20:00,893 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,894 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:20:00,898 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,898 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:20:00,910 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,911 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:20:00,915 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,915 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:20:00,927 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,927 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:20:00,932 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,932 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-12 12:20:00,945 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:00,946 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-12 12:20:00,950 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:00,950 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-12 12:20:01,032 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:20:01,033 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-12 12:20:01,037 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,037 - INFO - add_label_col - All files in the folder are processed for ./datafolder\lying
+2021-09-12 12:20:01,038 - INFO - add_label_col - Label: sitting
+2021-09-12 12:20:01,038 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:20:01,051 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,051 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:20:01,057 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,057 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-12 12:20:01,078 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,079 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-12 12:20:01,083 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,083 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-12 12:20:01,095 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,096 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-12 12:20:01,101 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,101 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-12 12:20:01,112 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,113 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-12 12:20:01,117 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,117 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-12 12:20:01,129 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,130 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-12 12:20:01,135 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,135 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-12 12:20:01,146 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,147 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-12 12:20:01,151 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,151 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-12 12:20:01,165 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,165 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-12 12:20:01,170 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,170 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:20:01,182 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,183 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:20:01,187 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,187 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:20:01,200 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,201 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:20:01,205 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,205 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:20:01,217 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,217 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:20:01,222 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,222 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:20:01,235 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,236 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:20:01,240 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,240 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:20:01,252 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,253 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:20:01,258 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,258 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:20:01,318 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,319 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:20:01,323 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,323 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-12 12:20:01,358 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,359 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-12 12:20:01,363 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,364 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-12 12:20:01,376 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:20:01,377 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-12 12:20:01,381 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,381 - INFO - add_label_col - All files in the folder are processed for ./datafolder\sitting
+2021-09-12 12:20:01,382 - INFO - add_label_col - Label: standing
+2021-09-12 12:20:01,382 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:20:01,397 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,398 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:20:01,402 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,402 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-12 12:20:01,414 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,415 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-12 12:20:01,420 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,420 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-12 12:20:01,432 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,432 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-12 12:20:01,437 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,437 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-12 12:20:01,449 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,450 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-12 12:20:01,454 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,455 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-12 12:20:01,466 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,467 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-12 12:20:01,471 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,472 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-12 12:20:01,482 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,483 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-12 12:20:01,487 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,488 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-12 12:20:01,499 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,499 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-12 12:20:01,504 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,504 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:20:01,516 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,516 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:20:01,521 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,521 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:20:01,532 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,533 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:20:01,537 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,537 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:20:01,549 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,550 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:20:01,554 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,555 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:20:01,568 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,569 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:20:01,573 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,574 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:20:01,585 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,585 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:20:01,590 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,590 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:20:01,602 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,603 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:20:01,607 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,607 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-12 12:20:01,618 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,619 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-12 12:20:01,623 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,623 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-12 12:20:01,635 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:20:01,636 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-12 12:20:01,640 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,641 - INFO - add_label_col - All files in the folder are processed for ./datafolder\standing
+2021-09-12 12:20:01,641 - INFO - add_label_col - Label: walking
+2021-09-12 12:20:01,641 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:20:01,654 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,654 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:20:01,659 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,659 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-12 12:20:01,671 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,672 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-12 12:20:01,676 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,676 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-12 12:20:01,688 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,689 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-12 12:20:01,694 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,694 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-12 12:20:01,705 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,706 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-12 12:20:01,711 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,711 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-12 12:20:01,721 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,722 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-12 12:20:01,726 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,727 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-12 12:20:01,738 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,739 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-12 12:20:01,744 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,744 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-12 12:20:01,756 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,757 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-12 12:20:01,762 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,762 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:20:01,773 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,774 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:20:01,779 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,779 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:20:01,791 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,791 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:20:01,796 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,797 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:20:01,808 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,809 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:20:01,814 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,814 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:20:01,825 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,825 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:20:01,831 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,831 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:20:01,843 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,844 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:20:01,849 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,849 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:20:01,860 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,861 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:20:01,865 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,866 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-12 12:20:01,877 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,878 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-12 12:20:01,883 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,883 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-12 12:20:01,916 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:20:01,916 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-12 12:20:01,921 - INFO - add_label_col - File saved successfully
+2021-09-12 12:20:01,921 - INFO - add_label_col - All files in the folder are processed for ./datafolder\walking
+2021-09-12 12:22:43,941 - INFO - merge_files - Created merged folder
+2021-09-12 12:22:43,941 - INFO - merge_files - Merging all the files inside datafolder into one file
+2021-09-12 12:22:43,942 - INFO - all_file_list - Creating list of list for all files inside datafolder
+2021-09-12 12:22:43,943 - INFO - all_file_list - List of list for all files inside datafolder is created
+2021-09-12 12:22:43,943 - ERROR - merge_files - Error while merging all the files inside datafolder into one file 'list' object has no attribute 'split'
+2021-09-12 12:24:17,006 - INFO - merge_files - Merging all the files inside datafolder into one file
+2021-09-12 12:24:17,007 - INFO - all_file_list - Creating list of list for all files inside datafolder
+2021-09-12 12:24:17,008 - INFO - all_file_list - List of list for all files inside datafolder is created
+2021-09-12 12:24:17,009 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:24:17,130 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:24:17,131 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:24:17,186 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:24:17,186 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:24:17,443 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:24:17,475 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:24:17,639 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:24:17,639 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:24:17,885 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:24:17,922 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:24:18,145 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:24:18,146 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:24:18,368 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:24:18,368 - INFO - merge_files - Merging all the files inside datafolder into one file is successful
+2021-09-12 12:25:47,354 - INFO - merge_files - Created merged folder
+2021-09-12 12:25:47,354 - INFO - merge_files - Merging all the files inside datafolder into one file
+2021-09-12 12:25:47,354 - INFO - all_file_list - Creating list of list for all files inside datafolder
+2021-09-12 12:25:47,356 - INFO - all_file_list - List of list for all files inside datafolder is created
+2021-09-12 12:25:47,356 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:25:47,365 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:25:47,366 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:25:47,373 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:25:47,374 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:25:47,391 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:25:47,392 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:25:47,406 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:25:47,407 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:25:47,424 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:25:47,425 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:25:47,440 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:25:47,441 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:25:47,461 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:25:47,461 - INFO - merge_files - Merging all the files inside datafolder into one file is successful
+2021-09-12 12:27:02,559 - INFO - create_full_data - Creating full data
+2021-09-12 12:27:02,559 - INFO - create_full_data - Merging all the files inside merged_folder into one file
+2021-09-12 12:27:02,560 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:27:02,709 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:27:02,709 - INFO - create_full_data - Merging all the files inside merged_folder into one file is successful
+2021-09-12 12:30:26,215 - INFO - add_label_col - Copy raw file to datafolder
+2021-09-12 12:30:26,215 - INFO - copy_raw_folder - Copying raw file to datafolder
+2021-09-12 12:30:27,262 - INFO - copy_raw_folder - Copying raw file to datafolder is successful
+2021-09-12 12:30:27,262 - INFO - add_label_col - Raw files moved to data folder.
+2021-09-12 12:30:27,262 - INFO - add_label_col - Looping through all folder inside datafolder
+2021-09-12 12:30:27,262 - INFO - add_label_col - Label: bending1
+2021-09-12 12:30:27,262 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:30:27,278 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:30:27,279 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:30:27,300 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,300 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:30:27,310 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:30:27,311 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:30:27,316 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,316 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:30:27,326 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:30:27,327 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:30:27,331 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,331 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:30:27,342 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:30:27,342 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:30:27,347 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,347 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:30:27,358 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:30:27,358 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:30:27,363 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,363 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:30:27,375 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:30:27,375 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:30:27,380 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,380 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:30:27,392 - INFO - add_label_col - Adding label columnbending1
+2021-09-12 12:30:27,392 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:30:27,397 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,397 - INFO - add_label_col - All files in the folder are processed for ./datafolder\bending1
+2021-09-12 12:30:27,398 - INFO - add_label_col - Label: bending2
+2021-09-12 12:30:27,398 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:30:27,410 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:30:27,410 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:30:27,415 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,415 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:30:27,426 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:30:27,426 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:30:27,431 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,431 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:30:27,444 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:30:27,445 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:30:27,449 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,450 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:30:27,465 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:30:27,466 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:30:27,470 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,470 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:30:27,485 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:30:27,486 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:30:27,490 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,490 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:30:27,504 - INFO - add_label_col - Adding label columnbending2
+2021-09-12 12:30:27,504 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:30:27,510 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,510 - INFO - add_label_col - All files in the folder are processed for ./datafolder\bending2
+2021-09-12 12:30:27,510 - INFO - add_label_col - Label: cycling
+2021-09-12 12:30:27,510 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:30:27,523 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,524 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:30:27,529 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,529 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-12 12:30:27,539 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,540 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-12 12:30:27,544 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,544 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-12 12:30:27,556 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,558 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-12 12:30:27,561 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,561 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-12 12:30:27,573 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,574 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-12 12:30:27,578 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,578 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-12 12:30:27,589 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,590 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-12 12:30:27,594 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,594 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-12 12:30:27,607 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,608 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-12 12:30:27,613 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,614 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-12 12:30:27,627 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,627 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-12 12:30:27,632 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,632 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:30:27,643 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,643 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:30:27,648 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,648 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:30:27,660 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,660 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:30:27,665 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,665 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:30:27,677 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,677 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:30:27,682 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,682 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:30:27,693 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,693 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:30:27,697 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,698 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:30:27,708 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,709 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:30:27,713 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,713 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:30:27,723 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,724 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:30:27,728 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,728 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-12 12:30:27,739 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,739 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-12 12:30:27,743 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,743 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-12 12:30:27,757 - INFO - add_label_col - Adding label columncycling
+2021-09-12 12:30:27,757 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-12 12:30:27,763 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,763 - INFO - add_label_col - All files in the folder are processed for ./datafolder\cycling
+2021-09-12 12:30:27,764 - INFO - add_label_col - Label: lying
+2021-09-12 12:30:27,764 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:30:27,776 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,777 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:30:27,782 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,782 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-12 12:30:27,793 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,794 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-12 12:30:27,799 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,800 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-12 12:30:27,812 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,812 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-12 12:30:27,817 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,817 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-12 12:30:27,828 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,829 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-12 12:30:27,833 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,833 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-12 12:30:27,845 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,846 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-12 12:30:27,850 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,850 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-12 12:30:27,862 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,863 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-12 12:30:27,867 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,867 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-12 12:30:27,880 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,880 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-12 12:30:27,884 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,885 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:30:27,897 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,898 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:30:27,901 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,902 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:30:27,912 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,913 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:30:27,917 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,917 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:30:27,927 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,927 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:30:27,931 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,931 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:30:27,942 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,943 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:30:27,946 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,946 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:30:27,958 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,959 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:30:27,962 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,963 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:30:27,974 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,975 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:30:27,979 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,979 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-12 12:30:27,991 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:27,992 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-12 12:30:27,996 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:27,996 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-12 12:30:28,007 - INFO - add_label_col - Adding label columnlying
+2021-09-12 12:30:28,008 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-12 12:30:28,012 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,012 - INFO - add_label_col - All files in the folder are processed for ./datafolder\lying
+2021-09-12 12:30:28,012 - INFO - add_label_col - Label: sitting
+2021-09-12 12:30:28,012 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:30:28,023 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,023 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:30:28,027 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,027 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-12 12:30:28,039 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,040 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-12 12:30:28,043 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,044 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-12 12:30:28,056 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,057 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-12 12:30:28,143 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,144 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-12 12:30:28,154 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,155 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-12 12:30:28,160 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,160 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-12 12:30:28,171 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,172 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-12 12:30:28,176 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,176 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-12 12:30:28,187 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,188 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-12 12:30:28,193 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,193 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-12 12:30:28,205 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,206 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-12 12:30:28,210 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,210 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:30:28,223 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,223 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:30:28,228 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,228 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:30:28,241 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,241 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:30:28,246 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,246 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:30:28,258 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,258 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:30:28,263 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,263 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:30:28,276 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,276 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:30:28,281 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,281 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:30:28,293 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,294 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:30:28,298 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,298 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:30:28,311 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,312 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:30:28,316 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,316 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-12 12:30:28,352 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,352 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-12 12:30:28,357 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,357 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-12 12:30:28,369 - INFO - add_label_col - Adding label columnsitting
+2021-09-12 12:30:28,369 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-12 12:30:28,374 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,374 - INFO - add_label_col - All files in the folder are processed for ./datafolder\sitting
+2021-09-12 12:30:28,374 - INFO - add_label_col - Label: standing
+2021-09-12 12:30:28,374 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:30:28,386 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,387 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:30:28,391 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,392 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-12 12:30:28,403 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,403 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-12 12:30:28,408 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,408 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-12 12:30:28,420 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,420 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-12 12:30:28,425 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,425 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-12 12:30:28,437 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,437 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-12 12:30:28,442 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,442 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-12 12:30:28,453 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,454 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-12 12:30:28,458 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,458 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-12 12:30:28,469 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,470 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-12 12:30:28,475 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,475 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-12 12:30:28,486 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,487 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-12 12:30:28,491 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,491 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:30:28,503 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,504 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:30:28,509 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,509 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:30:28,520 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,521 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:30:28,526 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,526 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:30:28,538 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,539 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:30:28,543 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,543 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:30:28,556 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,557 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:30:28,562 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,562 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:30:28,574 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,574 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:30:28,579 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,580 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:30:28,591 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,592 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:30:28,597 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,597 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-12 12:30:28,608 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,609 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-12 12:30:28,614 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,614 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-12 12:30:28,627 - INFO - add_label_col - Adding label columnstanding
+2021-09-12 12:30:28,627 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-12 12:30:28,633 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,633 - INFO - add_label_col - All files in the folder are processed for ./datafolder\standing
+2021-09-12 12:30:28,634 - INFO - add_label_col - Label: walking
+2021-09-12 12:30:28,634 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-12 12:30:28,648 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,648 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-12 12:30:28,653 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,653 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-12 12:30:28,664 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,665 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-12 12:30:28,670 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,670 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-12 12:30:28,682 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,682 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-12 12:30:28,687 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,687 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-12 12:30:28,699 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,699 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-12 12:30:28,704 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,704 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-12 12:30:28,716 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,716 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-12 12:30:28,720 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,720 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-12 12:30:28,732 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,733 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-12 12:30:28,738 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,738 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-12 12:30:28,750 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,750 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-12 12:30:28,754 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,755 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-12 12:30:28,766 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,766 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-12 12:30:28,770 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,771 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-12 12:30:28,782 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,783 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-12 12:30:28,787 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,787 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-12 12:30:28,798 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,799 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-12 12:30:28,803 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,803 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-12 12:30:28,814 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,814 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-12 12:30:28,818 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,818 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-12 12:30:28,830 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,831 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-12 12:30:28,835 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,835 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-12 12:30:28,846 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,847 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-12 12:30:28,851 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,851 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-12 12:30:28,863 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,863 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-12 12:30:28,867 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,867 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-12 12:30:28,904 - INFO - add_label_col - Adding label columnwalking
+2021-09-12 12:30:28,904 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-12 12:30:28,909 - INFO - add_label_col - File saved successfully
+2021-09-12 12:30:28,909 - INFO - add_label_col - All files in the folder are processed for ./datafolder\walking
+2021-09-12 12:30:28,910 - INFO - merge_files - Created merged folder
+2021-09-12 12:30:28,910 - INFO - merge_files - Merging all the files inside datafolder into one file
+2021-09-12 12:30:28,910 - INFO - all_file_list - Creating list of list for all files inside datafolder
+2021-09-12 12:30:28,912 - INFO - all_file_list - List of list for all files inside datafolder is created
+2021-09-12 12:30:28,912 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:30:28,957 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:30:28,958 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:30:28,995 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:30:28,996 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:30:29,225 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:30:29,226 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:30:29,335 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:30:29,335 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:30:29,453 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:30:29,453 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:30:29,568 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:30:29,568 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:30:29,713 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:30:29,714 - INFO - merge_files - Merging all the files inside datafolder into one file is successful
+2021-09-12 12:30:29,714 - INFO - create_full_data - Creating full data
+2021-09-12 12:30:29,714 - INFO - create_full_data - Merging all the files inside merged_folder into one file
+2021-09-12 12:30:29,715 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-12 12:30:29,939 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-12 12:30:29,939 - INFO - create_full_data - Merging all the files inside merged_folder into one file is successful
+2021-09-13 13:06:20,063 - INFO - add_label_col - Copy raw file to datafolder
+2021-09-13 13:06:20,063 - INFO - copy_raw_folder - Copying raw file to datafolder
+2021-09-13 13:06:20,063 - ERROR - copy_raw_folder - Copying raw file to datafolder is failed[Errno 13] Permission denied: './AReM'
+2021-09-13 13:06:20,063 - ERROR - add_label_col - Error while adding label column [Errno 13] Permission denied: './AReM'
+2021-09-13 13:10:51,367 - INFO - add_label_col - Copy raw file to datafolder
+2021-09-13 13:10:51,367 - INFO - copy_raw_folder - Copying raw file to datafolder
+2021-09-13 13:10:53,118 - INFO - copy_raw_folder - Copying raw file to datafolder is successful
+2021-09-13 13:10:53,118 - INFO - add_label_col - Raw files moved to data folder.
+2021-09-13 13:10:53,118 - INFO - add_label_col - Looping through all folder inside datafolder
+2021-09-13 13:10:53,119 - INFO - add_label_col - Label: bending1
+2021-09-13 13:10:53,119 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-13 13:10:53,231 - INFO - add_label_col - Adding label columnbending1
+2021-09-13 13:10:53,275 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-13 13:10:53,378 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,379 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-13 13:10:53,408 - INFO - add_label_col - Adding label columnbending1
+2021-09-13 13:10:53,409 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-13 13:10:53,414 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,414 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-13 13:10:53,426 - INFO - add_label_col - Adding label columnbending1
+2021-09-13 13:10:53,427 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-13 13:10:53,433 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,433 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-13 13:10:53,444 - INFO - add_label_col - Adding label columnbending1
+2021-09-13 13:10:53,445 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-13 13:10:53,450 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,451 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-13 13:10:53,464 - INFO - add_label_col - Adding label columnbending1
+2021-09-13 13:10:53,465 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-13 13:10:53,469 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,469 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-13 13:10:53,482 - INFO - add_label_col - Adding label columnbending1
+2021-09-13 13:10:53,483 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-13 13:10:53,489 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,489 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-13 13:10:53,502 - INFO - add_label_col - Adding label columnbending1
+2021-09-13 13:10:53,503 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-13 13:10:53,508 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,508 - INFO - add_label_col - All files in the folder are processed for ./datafolder\bending1
+2021-09-13 13:10:53,508 - INFO - add_label_col - Label: bending2
+2021-09-13 13:10:53,508 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-13 13:10:53,522 - INFO - add_label_col - Adding label columnbending2
+2021-09-13 13:10:53,522 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-13 13:10:53,534 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,534 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-13 13:10:53,559 - INFO - add_label_col - Adding label columnbending2
+2021-09-13 13:10:53,561 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-13 13:10:53,571 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,571 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-13 13:10:53,590 - INFO - add_label_col - Adding label columnbending2
+2021-09-13 13:10:53,591 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-13 13:10:53,596 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,596 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-13 13:10:53,680 - INFO - add_label_col - Adding label columnbending2
+2021-09-13 13:10:53,681 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-13 13:10:53,685 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,685 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-13 13:10:53,697 - INFO - add_label_col - Adding label columnbending2
+2021-09-13 13:10:53,698 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-13 13:10:53,705 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,705 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-13 13:10:53,720 - INFO - add_label_col - Adding label columnbending2
+2021-09-13 13:10:53,721 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-13 13:10:53,730 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,730 - INFO - add_label_col - All files in the folder are processed for ./datafolder\bending2
+2021-09-13 13:10:53,730 - INFO - add_label_col - Label: cycling
+2021-09-13 13:10:53,730 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-13 13:10:53,745 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,746 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-13 13:10:53,751 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,751 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-13 13:10:53,765 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,766 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-13 13:10:53,771 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,771 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-13 13:10:53,792 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,794 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-13 13:10:53,804 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,804 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-13 13:10:53,825 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,826 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-13 13:10:53,831 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,832 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-13 13:10:53,844 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,844 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-13 13:10:53,849 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,849 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-13 13:10:53,864 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,865 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-13 13:10:53,870 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,870 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-13 13:10:53,886 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,888 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-13 13:10:53,896 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,896 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-13 13:10:53,909 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,910 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-13 13:10:53,915 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,915 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-13 13:10:53,929 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,930 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-13 13:10:53,936 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,936 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-13 13:10:53,949 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,950 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-13 13:10:53,957 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,957 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-13 13:10:53,969 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,970 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-13 13:10:53,976 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,976 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-13 13:10:53,988 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:53,989 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-13 13:10:53,995 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:53,995 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-13 13:10:54,053 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:54,055 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-13 13:10:54,064 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,064 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-13 13:10:54,085 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:54,086 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-13 13:10:54,091 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,091 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-13 13:10:54,105 - INFO - add_label_col - Adding label columncycling
+2021-09-13 13:10:54,106 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-13 13:10:54,113 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,113 - INFO - add_label_col - All files in the folder are processed for ./datafolder\cycling
+2021-09-13 13:10:54,113 - INFO - add_label_col - Label: lying
+2021-09-13 13:10:54,113 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-13 13:10:54,128 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,129 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-13 13:10:54,134 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,134 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-13 13:10:54,147 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,148 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-13 13:10:54,154 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,154 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-13 13:10:54,166 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,167 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-13 13:10:54,173 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,174 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-13 13:10:54,186 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,187 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-13 13:10:54,192 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,192 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-13 13:10:54,205 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,205 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-13 13:10:54,211 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,211 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-13 13:10:54,224 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,225 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-13 13:10:54,230 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,230 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-13 13:10:54,243 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,244 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-13 13:10:54,249 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,249 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-13 13:10:54,261 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,262 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-13 13:10:54,268 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,268 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-13 13:10:54,281 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,282 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-13 13:10:54,291 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,291 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-13 13:10:54,311 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,312 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-13 13:10:54,320 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,320 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-13 13:10:54,334 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,334 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-13 13:10:54,339 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,339 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-13 13:10:54,351 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,351 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-13 13:10:54,356 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,356 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-13 13:10:54,368 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,369 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-13 13:10:54,373 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,373 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-13 13:10:54,386 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,387 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-13 13:10:54,392 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,392 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-13 13:10:54,404 - INFO - add_label_col - Adding label columnlying
+2021-09-13 13:10:54,405 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-13 13:10:54,410 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,410 - INFO - add_label_col - All files in the folder are processed for ./datafolder\lying
+2021-09-13 13:10:54,410 - INFO - add_label_col - Label: sitting
+2021-09-13 13:10:54,410 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-13 13:10:54,422 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,423 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-13 13:10:54,427 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,427 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-13 13:10:54,440 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,441 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-13 13:10:54,446 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,446 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-13 13:10:54,457 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,458 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-13 13:10:54,462 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,462 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-13 13:10:54,472 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,473 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-13 13:10:54,478 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,478 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-13 13:10:54,488 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,489 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-13 13:10:54,494 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,494 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-13 13:10:54,504 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,504 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-13 13:10:54,509 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,509 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-13 13:10:54,521 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,522 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-13 13:10:54,527 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,527 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-13 13:10:54,546 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,547 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-13 13:10:54,554 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,554 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-13 13:10:54,572 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,572 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-13 13:10:54,576 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,576 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-13 13:10:54,588 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,589 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-13 13:10:54,593 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,593 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-13 13:10:54,606 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,606 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-13 13:10:54,611 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,611 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-13 13:10:54,623 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,623 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-13 13:10:54,628 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,628 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-13 13:10:54,640 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,641 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-13 13:10:54,646 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,646 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-13 13:10:54,679 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,679 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-13 13:10:54,685 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,685 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-13 13:10:54,696 - INFO - add_label_col - Adding label columnsitting
+2021-09-13 13:10:54,696 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-13 13:10:54,701 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,702 - INFO - add_label_col - All files in the folder are processed for ./datafolder\sitting
+2021-09-13 13:10:54,702 - INFO - add_label_col - Label: standing
+2021-09-13 13:10:54,702 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-13 13:10:54,713 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,714 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-13 13:10:54,719 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,719 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-13 13:10:54,730 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,731 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-13 13:10:54,735 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,736 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-13 13:10:54,748 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,749 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-13 13:10:54,753 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,753 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-13 13:10:54,765 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,765 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-13 13:10:54,769 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,770 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-13 13:10:54,782 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,784 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-13 13:10:54,793 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,794 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-13 13:10:54,809 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,810 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-13 13:10:54,816 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,816 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-13 13:10:54,830 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,831 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-13 13:10:54,835 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,835 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-13 13:10:54,846 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,847 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-13 13:10:54,851 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,852 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-13 13:10:54,862 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,863 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-13 13:10:54,867 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,868 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-13 13:10:54,879 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,879 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-13 13:10:54,883 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,884 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-13 13:10:54,896 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,896 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-13 13:10:54,901 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,901 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-13 13:10:54,913 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,914 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-13 13:10:54,918 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,918 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-13 13:10:54,931 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,931 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-13 13:10:54,935 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,935 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-13 13:10:54,945 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,946 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-13 13:10:54,950 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,950 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-13 13:10:54,962 - INFO - add_label_col - Adding label columnstanding
+2021-09-13 13:10:54,962 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-13 13:10:54,966 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,966 - INFO - add_label_col - All files in the folder are processed for ./datafolder\standing
+2021-09-13 13:10:54,966 - INFO - add_label_col - Label: walking
+2021-09-13 13:10:54,967 - INFO - add_label_col - Reading file: dataset1.csv
+2021-09-13 13:10:54,979 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:54,980 - INFO - add_label_col - Saving file: dataset1.csv
+2021-09-13 13:10:54,984 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:54,984 - INFO - add_label_col - Reading file: dataset10.csv
+2021-09-13 13:10:54,995 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:54,996 - INFO - add_label_col - Saving file: dataset10.csv
+2021-09-13 13:10:55,000 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,000 - INFO - add_label_col - Reading file: dataset11.csv
+2021-09-13 13:10:55,013 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,014 - INFO - add_label_col - Saving file: dataset11.csv
+2021-09-13 13:10:55,018 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,018 - INFO - add_label_col - Reading file: dataset12.csv
+2021-09-13 13:10:55,031 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,033 - INFO - add_label_col - Saving file: dataset12.csv
+2021-09-13 13:10:55,041 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,042 - INFO - add_label_col - Reading file: dataset13.csv
+2021-09-13 13:10:55,060 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,061 - INFO - add_label_col - Saving file: dataset13.csv
+2021-09-13 13:10:55,067 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,067 - INFO - add_label_col - Reading file: dataset14.csv
+2021-09-13 13:10:55,079 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,080 - INFO - add_label_col - Saving file: dataset14.csv
+2021-09-13 13:10:55,086 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,086 - INFO - add_label_col - Reading file: dataset15.csv
+2021-09-13 13:10:55,099 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,100 - INFO - add_label_col - Saving file: dataset15.csv
+2021-09-13 13:10:55,105 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,105 - INFO - add_label_col - Reading file: dataset2.csv
+2021-09-13 13:10:55,116 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,117 - INFO - add_label_col - Saving file: dataset2.csv
+2021-09-13 13:10:55,122 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,122 - INFO - add_label_col - Reading file: dataset3.csv
+2021-09-13 13:10:55,134 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,134 - INFO - add_label_col - Saving file: dataset3.csv
+2021-09-13 13:10:55,139 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,140 - INFO - add_label_col - Reading file: dataset4.csv
+2021-09-13 13:10:55,152 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,153 - INFO - add_label_col - Saving file: dataset4.csv
+2021-09-13 13:10:55,158 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,158 - INFO - add_label_col - Reading file: dataset5.csv
+2021-09-13 13:10:55,170 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,171 - INFO - add_label_col - Saving file: dataset5.csv
+2021-09-13 13:10:55,176 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,176 - INFO - add_label_col - Reading file: dataset6.csv
+2021-09-13 13:10:55,188 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,189 - INFO - add_label_col - Saving file: dataset6.csv
+2021-09-13 13:10:55,194 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,194 - INFO - add_label_col - Reading file: dataset7.csv
+2021-09-13 13:10:55,206 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,206 - INFO - add_label_col - Saving file: dataset7.csv
+2021-09-13 13:10:55,211 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,211 - INFO - add_label_col - Reading file: dataset8.csv
+2021-09-13 13:10:55,225 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,225 - INFO - add_label_col - Saving file: dataset8.csv
+2021-09-13 13:10:55,229 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,229 - INFO - add_label_col - Reading file: dataset9.csv
+2021-09-13 13:10:55,260 - INFO - add_label_col - Adding label columnwalking
+2021-09-13 13:10:55,261 - INFO - add_label_col - Saving file: dataset9.csv
+2021-09-13 13:10:55,266 - INFO - add_label_col - File saved successfully
+2021-09-13 13:10:55,266 - INFO - add_label_col - All files in the folder are processed for ./datafolder\walking
+2021-09-13 13:13:35,438 - INFO - merge_files - Created merged folder
+2021-09-13 13:13:35,438 - INFO - merge_files - Merging all the files inside datafolder into one file
+2021-09-13 13:13:35,439 - INFO - all_file_list - Creating list of list for all files inside datafolder
+2021-09-13 13:13:35,440 - INFO - all_file_list - List of list for all files inside datafolder is created
+2021-09-13 13:13:35,440 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-13 13:13:35,499 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-13 13:13:35,500 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-13 13:13:35,550 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-13 13:13:35,600 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-13 13:13:35,814 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-13 13:13:35,815 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-13 13:13:35,995 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-13 13:13:35,996 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-13 13:13:36,188 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-13 13:13:36,189 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-13 13:13:36,385 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-13 13:13:36,388 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-13 13:13:36,547 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-13 13:13:36,547 - INFO - merge_files - Merging all the files inside datafolder into one file is successful
+2021-09-13 13:13:36,548 - INFO - create_full_data - Creating full data
+2021-09-13 13:13:36,548 - INFO - create_full_data - Merging all the files inside merged_folder into one file
+2021-09-13 13:13:36,574 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-13 13:13:36,762 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-13 13:13:36,763 - INFO - create_full_data - Merging all the files inside merged_folder into one file is successful
+2021-09-15 12:38:31,175 - INFO - merge_files - Merging all the files inside datafolder into one file
+2021-09-15 12:38:31,442 - INFO - all_file_list - Creating list of list for all files inside datafolder
+2021-09-15 12:38:31,444 - INFO - all_file_list - List of list for all files inside datafolder is created
+2021-09-15 12:38:31,569 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-15 12:38:33,189 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-15 12:38:33,189 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-15 12:38:35,156 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-15 12:38:35,266 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
+2021-09-15 12:38:37,544 - INFO - merge_csv - Merging all the csv files inside datafolder into one file is successful
+2021-09-15 12:38:37,544 - INFO - merge_csv - Merging all the csv files inside datafolder into one file
